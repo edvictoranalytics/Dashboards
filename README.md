@@ -22,40 +22,21 @@ serviços de núvem, tem outros serviços que você pode assinar junto ao carrin
 #### Obs.: Dados aqui já estão limpos e organizados, não sendo necessário ETL.
 
 <img width="586" height="295" alt="image" src="https://github.com/user-attachments/assets/3cc58307-0b72-4020-9115-14125cdb8322" />
-	
+<img width="170" height="80" alt="image" src="https://github.com/user-attachments/assets/4a6a1d42-8854-436a-b249-76ee327411ef" />
 
-											
-Empilhamento de serviços											
-Subscription Type											
-EA Play Season Pass											
-Minecraft Season Pass											
-![Uploading image.png…]()
+# Perguntas de negócios
+1 - Qual faturamento Total de vendas de planos anuais (contendo todas as assinaturas agregadas)
 
+2 - Qual faturamento Total de vendas de planos anuais, separado por auto renovação que não é por renovação automática.
 
-# O que é esses dados em "Bases"?											
-"R: É uma base de dados de assinaturas, que a Microsft oferece dentro do serviço da Xbox Cloud.
-Xbox Cloud é um serviço de núvem, onde os jogadores eles podem te acesso a um leque de jogos e dentro desses
-serviços de núvem, tem outros serviços que você pode assinar junto ao carrinho, como se fosse uma NETFLIX de jogos."											
-											
-Quais os dados estão sendo armazenados?											
-Obs.: Dados aqui já estão trabalhados											
-Subscriber ID	Registro da Assinatura										
-Name	Nome da pessoa que fez a assinatura										
-Plan	Tipo do plano										
-Start Date	Data inicial do plano										
-Auto Renewal	Se o plano será renovado automáticamente Y/N										
-Subscription Price	Valor da assinatura										
-Subscription Type	Tipo da assinatura										
-EA Play Season Pass	Se escolheu o "serviço/assinatura"										
-"EA Play Season Pass
-Price"	Valor do serviço										
-Minecraft Season Pass	Se escolheu o "serviço/assinatura"										
-Minecraft Season Pass Price	Valor do serviço										
-Coupon Value	Valor do cupom de desconto, se houver.										
-Total Value	Total dos valores. Registro de um conjunto de assinaturas										
-											
-Empilhamento de serviços											
-Subscription Type											
-EA Play Season Pass											
-Minecraft Season Pass											
-<img width="839" height="540" alt="image" src="https://github.com/user-attachments/assets/4ee46a4a-5cc4-469f-b1b1-a3c403e49ff0" />
+3 - Total de vendas de assinaturas do EA play
+
+4 - Total de vendas de assinaturas do Minecraft Season Pass
+
+5 - Qual a receita total de assinaturas sem PASS?
+
+6 - Qual evolução das receitas por mês?
+
+# Observações
+
+- Planilhas ocultadas
