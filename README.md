@@ -4,6 +4,7 @@
 • Worksheet (Planilha/Folha) é uma única página dentro desse arquivo, onde os dados são inseridos em linhas e colunas. 
 
 Workbook = Dashboard Finalizado - Aula.xlsx
+
 worksheet =
 
 *Método de organização  | ABCDE*
